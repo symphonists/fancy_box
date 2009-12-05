@@ -1,9 +1,11 @@
 FancyBox Plugin for Symphony
-----------------------------
+============================
+
+A simple extension that allow you to use [FancyBox](http://fancybox.net/) for displaying images in Symphony's backend.
 
 - Version: 1.0
 - Author: Rainer Borene <rainerborene@gmail.com>
-- Build Date: 2009-04-12
+- Build Date: 2009-12-04
 - Requirements: Symphony 2.0.2
 
 ## Installation
