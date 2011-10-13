@@ -18,7 +18,7 @@
 		public function getSubscribedDelegates(){
 			return array(
 				array(
-					'page' => '/administration/',
+					'page' => '/backend/',
 					'delegate' => 'AdminPagePreGenerate',
 					'callback' => 'appendAssets'
 				)
